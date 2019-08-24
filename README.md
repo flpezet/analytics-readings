@@ -1,11 +1,13 @@
 # Resources for Analytics Engineers (Still Work in Progress)
-This repository is a curation of good blog posts and books for Analytics Engineers. It can also be very useful for Data Analysts and Data Scientists. It's not aimed toward total beginners (don't know SQL).
+This repository is a curation of good blog posts and books for Analytics Engineers. It can also be very useful for Data Analysts and Data Scientists. 
 
 ## Contribute
 I really appreciate any contribution. Just make sure to write a couple of lines to describe the theme and why you found the resource useful. 
 
 
 # Readings
+
+Definition of the Analytics Engineer: [https://www.locallyoptimistic.com/post/analytics-engineer/](The Analytics Engineer). 
 
 
 ### SQL
@@ -15,8 +17,11 @@ I really appreciate any contribution. Just make sure to write a couple of lines 
 ### Infrastructure
 
   * [The Startup Founder's Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1). An excellent introduction to the stack necessary for analytics and its evolution following the growth of the start-up.  
-  * [The missing layer of Analytics Stack](https://blog.getdbt.com/the-missing-layers-of-the-analytics-stack).
+  * [The missing layer of Analytics Stack](https://blog.getdbt.com/the-missing-layers-of-the-analytics-stack). 
   * [Choosing a Data Warehousing](https://discourse.getdbt.com/t/choosing-a-data-warehouse/62/4). A lot of excellent answers on what to choose for your data warehouse. 
+  **Comparison of tools by Stephen Levin**
+  * [Looker vs Tableau vs Mode. Data Visualisation tools compared](https://www.stephenlevin.co/advanced-analytics-part-3-data-visualization/). . 
+  * [Segment vs fivetran vd stitch: Which Data Ingest Should You Use?](https://www.stephenlevin.co/segment-vs-fivetran-vs-stitch-which-data-ingest-should-you-use/)
 
 ### Analytics Skills
   * [One analyst's guide for going from good to great](https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/)
@@ -24,21 +29,23 @@ I really appreciate any contribution. Just make sure to write a couple of lines 
 
 ### Data Warehousing
 
-  * [The Data Warehouse Toolkit]() by Ralph Kimball. A classic in Business Intelligence. Some chapters can be gold on modeling your data warehouse.   
+  * [The beginner guide to data engineering series](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7). Start here if you don't know what is a star schema, Airflow and some basic practices when writing data pipelines.    
+  * [The Data Warehouse Toolkit](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=sr_1_1?crid=FV5A2S72XIZO&keywords=data+warehouse+toolkit&qid=1566644628&s=gateway&sprefix=data+ware%2Caps%2C213&sr=8-1) by Ralph Kimball. A classic in Business Intelligence. Some chapters can be gold on modeling your data warehouse.   
   * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a). You will learn the spirit behind good data pipelines and a well-designed data warehouse.  
-  * [The beginner guide to data engineering series](). Must read for everyone to understand Star Schema.   
-  * [The rise of the Data Engineer](https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603). Explain recent evolutions of the job and practices.   
+  * [The rise of the Data Engineer](https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603). Explains recent evolutions of the job and data practices.   
 
 ### Data Pipelines
 
   * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a). You will learn the spirit behind good data pipelines and a well-designed data warehouse.
-  * [Maintenable ETL](https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/)
+  * [Maintenable ETL](https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/). Best practices to write good ETL. 
 
 ### Start Analytics in a company
   * [Building a data practice from scratch](https://www.locallyoptimistic.com/post/building-a-data-practice/). Very useful for your first weeks as a data person. 
+  * [The Startup Founder's Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1). An excellent introduction to the stack necessary for analytics and its evolution following the growth of the start-up.  
+
 
 ### Testing data
-  * [Automated Testing In The Modern Data Warehouse](https://medium.com/@josh.temple/automated-testing-in-the-modern-data-warehouse-d5a251a866af). Practical Advice to test data. Useful for everyone building data pipelines. Rare to found such a post dealing with non-sexy thing in data. 
+  * [Automated Testing In The Modern Data Warehouse](https://medium.com/@josh.temple/automated-testing-in-the-modern-data-warehouse-d5a251a866af). Practical advice to test data. Useful for everyone building data pipelines. Rare to found such a post dealing with non-sexy thing in data. 
 
 
 ### Success Stories
@@ -49,24 +56,25 @@ I really appreciate any contribution. Just make sure to write a couple of lines 
   * [Engineer shouldn't write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/). It's more data science focused but it's a classic.
 
 ### Marketing and data
-[Data Driven Marketing]. Reading some chapters can help you think like a marketer with data driven approach. 
+[Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). Reading some chapters can help you think like a marketer with data driven approach. I don't think you need to read the whole book, though.
 
 ### More rigor for the analyst
 These books helped me to think better when analysing data. 
-  [Thinking fast and slow]
-  [Fooled by randomness]
+  [Thinking fast and slow](https://www.amazon.com/dp/0374533555/ref=cm_sw_em_r_mt_dp_U_wOryDb6WC3CVE). Learning about bias can be super useful. For instance, I didn't have the reflex to think of a base rate anytime I see a figure. 
+  [Fooled by randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?crid=2QEXPWM35W0BR&keywords=fooled+by+randomness&qid=1566644880&s=books&sprefix=foole%2Cstripbooks-intl-ship%2C207&sr=1-1).
+Nassim Taleb taught so much both professionally and personnaly. In Fooled By Randomness, you will learn about major pitfalls when dealing with data in **real life**. 
 
 
-### Other readings list
+### Other readings lists
 
-I really love [Reading in Applied Data Science](https://github.com/hadley/stats337#readings). But it is more fors data scientists.
+I really love [Reading in Applied Data Science](https://github.com/hadley/stats337#readings). But it is more for data scientists.
 
 # Top bloggers/blog
-Randy Au
-Stephen Levin
+[Randy Au](https://towardsdatascience.com/@Randy_Au) .You can read almost all his posts there are all good.
+[Locally Optimistic](https://www.locallyoptimistic.com/). A blog dedicated to data in organizations. 
 Tristan Handy 
+Stephen Levin
 Josh Temple
-Locally Optimistic
 
 # Where is the community?
 Dbt blog
