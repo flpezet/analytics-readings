@@ -1,4 +1,4 @@
-# Resources for Analytics Engineers (Still Work in Progress)
+# Resources for Analytics Engineers (Work in Progress)
 This repository is a curation of good blog posts and books for Analytics Engineers. It can also be very useful for Data Analysts and Data Scientists. 
 
 ## Contribute
@@ -37,7 +37,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
   * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a). You will learn the spirit behind good data pipelines and a well-designed data warehouse.  
   * [The rise of the Data Engineer](https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603). Explains recent evolutions of the job and data practices.   
   * [Five principles that will keep your data warehouse organized](https://blog.getdbt.com/five-principles-that-will-keep-your-data-warehouse-organized/)
-
+  * [For Data Warehouse Performance, One Big Table or Star Schema?](https://fivetran.com/blog/obt-star-schema). Discussion on an alternative to star schema. 
 ### Data Pipelines
 
   * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a). You will learn the spirit behind good data pipelines and a well-designed data warehouse.
@@ -72,6 +72,8 @@ Nassim Taleb taught so much both professionally and personnaly. In Fooled By Ran
   * [Why you should care about the Nate Silver vs. Nassim Taleb Twitter war](https://towardsdatascience.com/why-you-should-care-about-the-nate-silver-vs-nassim-taleb-twitter-war-a581dce1f5fc). Great chess players learn from high elo games. Great data people learn from debate between data experts. 
   * [Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f). I have not read them all yet. But these suggestions seems judicious. 
 
+### Data Visualisation 
+   * [Fundamentals of Data Visualisation](https://serialmentor.com/dataviz/). Complete guide to visualisation. Free version online.
 
 ### Other readings lists
 
