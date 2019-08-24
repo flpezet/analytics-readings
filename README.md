@@ -7,7 +7,7 @@ I really appreciate any contribution. Just make sure to write a couple of lines 
 
 # Readings
 
-Definition of the Analytics Engineer: [https://www.locallyoptimistic.com/post/analytics-engineer/](The Analytics Engineer). 
+Definition of the Analytics Engineer: [The Analytics Engineer](https://www.locallyoptimistic.com/post/analytics-engineer/). 
 
 
 ### SQL
