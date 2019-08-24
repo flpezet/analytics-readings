@@ -26,6 +26,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 ### Analytics Skills
   * [One analyst's guide for going from good to great](https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/)
   * [Suceeding as the first data person in a small company/startup](https://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c). A must read for anyone working in data even in a big company. 
+  * [Prioritizing data science work](https://towardsdatascience.com/prioritizing-data-science-work-936b3765fd45). Too much engineers like building ivory towers. Make sure you don't fall in the trap.
 
 ### Data Warehousing
 
@@ -56,28 +57,31 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
   * [Engineer shouldn't write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/). It's more data science focused but it's a classic.
 
 ### Marketing and data
-[Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). Reading some chapters can help you think like a marketer with data driven approach. I don't think you need to read the whole book, though.
+  * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). Reading some chapters can help you think like a marketer with data driven approach. I don't think you need to read the whole book, though.
 
 ### More rigor for the analyst
 These books helped me to think better when analysing data. 
-  [Thinking fast and slow](https://www.amazon.com/dp/0374533555/ref=cm_sw_em_r_mt_dp_U_wOryDb6WC3CVE). Learning about bias can be super useful. For instance, I didn't have the reflex to think of a base rate anytime I see a figure. 
-  [Fooled by randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?crid=2QEXPWM35W0BR&keywords=fooled+by+randomness&qid=1566644880&s=books&sprefix=foole%2Cstripbooks-intl-ship%2C207&sr=1-1).
+
+  * [Thinking fast and slow](https://www.amazon.com/dp/0374533555/ref=cm_sw_em_r_mt_dp_U_wOryDb6WC3CVE). Learning about bias can be super useful. For instance, I didn't have the reflex to think of a base rate anytime I see a figure. 
+  * [Fooled by randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?crid=2QEXPWM35W0BR&keywords=fooled+by+randomness&qid=1566644880&s=books&sprefix=foole%2Cstripbooks-intl-ship%2C207&sr=1-1).
 Nassim Taleb taught so much both professionally and personnaly. In Fooled By Randomness, you will learn about major pitfalls when dealing with data in **real life**. 
+  * [Why you should care about the Nate Silver vs. Nassim Taleb Twitter war](https://towardsdatascience.com/why-you-should-care-about-the-nate-silver-vs-nassim-taleb-twitter-war-a581dce1f5fc). Great chess players learn from high elo games. Great data people learn from debate between data experts. 
+  * [Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f). I have not read them all yet. But these suggestions seems judicious. 
 
 
 ### Other readings lists
 
-I really love [Reading in Applied Data Science](https://github.com/hadley/stats337#readings). But it is more for data scientists.
+I really love [Reading in Applied Data Science](https://github.com/hadley/stats337#readings). But it is more for data scientists.  
+   The Gitlab data team also made an [excellent list](https://gitlab.com/gitlab-data/analytics). (close to mine)
 
 # Top bloggers/blog
-[Randy Au](https://towardsdatascience.com/@Randy_Au) .You can read almost all his posts there are all good.
-[Locally Optimistic](https://www.locallyoptimistic.com/). A blog dedicated to data in organizations. 
-Tristan Handy 
-Stephen Levin
-Josh Temple
+  * [Randy Au](https://towardsdatascience.com/@Randy_Au). You can read almost all his posts there are all very relevant for analytics engineers.
+  * [Locally Optimistic](https://www.locallyoptimistic.com/). A blog dedicated to data in organizations. 
+  * [Tristan Handy](https://medium.com/@jthandy). I also love his newsletter: [Data Science Roundup](http://roundup.fishtownanalytics.com/).
+
 
 # Where is the community?
-Dbt blog
-Twitter
-Locally Optimistic
+  * Dbt blog
+  * Twitter
+  * Locally Optimistic
 
