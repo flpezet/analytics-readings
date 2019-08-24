@@ -57,6 +57,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 
 ### Organisation
   * [Engineer shouldn't write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/). It's more data science focused but it's a classic.
+  * [Does my startup data team need a data engineer?](https://blog.getdbt.com/does-my-startup-data-team-need-a-data-engineer-/)
 
 ### Marketing and data
   * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). Reading some chapters can help you think like a marketer with data driven approach. I don't think you need to read the whole book, though.
