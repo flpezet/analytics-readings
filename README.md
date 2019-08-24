@@ -16,6 +16,7 @@ I really appreciate any contribution. Just make sure to write a couple of lines 
 
   * [The Startup Founder's Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1). An excellent introduction to the stack necessary for analytics and its evolution following the growth of the start-up.  
   * [The missing layer of Analytics Stack](https://blog.getdbt.com/the-missing-layers-of-the-analytics-stack).
+  * [Choosing a Data Warehousing](https://discourse.getdbt.com/t/choosing-a-data-warehouse/62/4). A lot of excellent answers on what to choose for your data warehouse. 
 
 ### Analytics Skills
   * [One analyst's guide for going from good to great](https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/)
