@@ -40,7 +40,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 ### Data Pipelines
 
   * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a). You will learn the spirit behind good data pipelines and a well-designed data warehouse.
-  * [Maintenable ETL](https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/). Best practices to write good ETL. 
+  * [Maintenable ETL: Tips for Making Your Pipelines Easier to Support and Extend](https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/). Best practices to write good ETL. 
 
 ### Start Analytics in a company
   * [Building a data practice from scratch](https://www.locallyoptimistic.com/post/building-a-data-practice/). Very useful for your first weeks as a data person. 
