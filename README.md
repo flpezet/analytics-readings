@@ -2,7 +2,7 @@
 This repository is a curation of good blog posts and books for Analytics Engineers. It can also be very useful for Data Analysts and Data Scientists. 
 
 ## Contribute
-I really appreciate any contribution. Just make sure to write a couple of lines to describe the theme and why you found the resource useful. 
+I really appreciate any contribution. Just make sure to describe the theme and why you found the resource useful. 
 
 
 # Readings
@@ -13,17 +13,21 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 ### SQL
   * [Learning SQL 201: Optimizing Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1) By Randy Au. I finally found a complete post on advanced SQL.
 
+### Python 
+  * [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662). Very comprehensive book about using python for data stuff. 
+  * [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) I use it everyday!
+  * [TIL Python by Vicki Boykis](https://github.com/veekaybee/til/blob/master/python/pandas_cheat_sheet.md). Some tricks with pandas for frequent .
 
 ### Infrastructure
 
   * [The Startup Founder's Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1). An excellent introduction to the stack necessary for analytics and its evolution following the growth of the start-up.  
   * [The missing layer of Analytics Stack](https://blog.getdbt.com/the-missing-layers-of-the-analytics-stack). 
   * [Choosing a Data Warehouse](https://discourse.getdbt.com/t/choosing-a-data-warehouse/62/4). A lot of excellent answers on what to choose for your data warehouse. 
-    * [Data science for start-ups](https://bgweber.github.io/intro.html). You can find some useful information in this free book.
+  * [Data science for start-ups](https://bgweber.github.io/intro.html). You can find some useful information in this free book.
 
   **Comparison of tools by Stephen Levin**
   * [Looker vs Tableau vs Mode. Data Visualisation tools compared](https://www.stephenlevin.co/advanced-analytics-part-3-data-visualization/). . 
-  * [Segment vs fivetran vd stitch: Which Data Ingest Should You Use?](https://www.stephenlevin.co/segment-vs-fivetran-vs-stitch-which-data-ingest-should-you-use/)
+  * [Segment vs Fivetran vs Stitch: Which Data Ingest Should You Use?](https://www.stephenlevin.co/segment-vs-fivetran-vs-stitch-which-data-ingest-should-you-use/)
 
 ### Analytics Skills
   * [One analyst's guide for going from good to great](https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/)
@@ -38,6 +42,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
   * [The rise of the Data Engineer](https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603). Explains recent evolutions of the job and data practices.   
   * [Five principles that will keep your data warehouse organized](https://blog.getdbt.com/five-principles-that-will-keep-your-data-warehouse-organized/)
   * [For Data Warehouse Performance, One Big Table or Star Schema?](https://fivetran.com/blog/obt-star-schema). Discussion on an alternative to star schema. 
+
 ### Data Pipelines
 
   * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a). You will learn the spirit behind good data pipelines and a well-designed data warehouse.
@@ -61,7 +66,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
   * [Does my startup data team need a data engineer?](https://blog.getdbt.com/does-my-startup-data-team-need-a-data-engineer-/)
 
 ### Marketing and data
-  * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). Reading some chapters can help you think like a marketer with data driven approach. I don't think you need to read the whole book, though.
+  * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). Reading some chapters can help you think like a marketer with data driven approach. I don't think you need to read the whole book, though. But it's a gem. Didn't find this kind of insights elsewhere.
 
 ### More rigor for the analyst
 These books helped me to think better when analysing data. 
