@@ -16,7 +16,8 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 ### Python 
   * [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662). Very comprehensive book about using python for data stuff. 
   * [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) I use it everyday!
-  * [TIL Python by Vicki Boykis](https://github.com/veekaybee/til/blob/master/python/pandas_cheat_sheet.md). Some tricks with pandas for frequent .
+  * [TIL Python by Vicki Boykis](https://github.com/veekaybee/til/blob/master/python/pandas_cheat_sheet.md). Some tricks to deal with some frequent tasks when manipulating data.
+  * [Modern pandas](https://tomaugspurger.github.io/modern-1-intro.html). A series of blog posts on intermediate/advanced pandas written by one of the maintainers. 
 
 ### Infrastructure
 
@@ -32,7 +33,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 ### Analytics Skills
   * [One analyst's guide for going from good to great](https://blog.getdbt.com/one-analysts-guide-for-going-from-good-to-great/)
   * [Suceeding as the first data person in a small company/startup](https://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c). A must read for anyone working in data even in a big company. 
-  * [Prioritizing data science work](https://towardsdatascience.com/prioritizing-data-science-work-936b3765fd45). Too much engineers like building ivory towers. Make sure you don't fall in the trap.
+  * [Prioritizing data science work](https://towardsdatascience.com/prioritizing-data-science-work-936b3765fd45). Too many engineers like building ivory towers. Make sure you don't fall in the trap.
 
 ### Data Warehousing
 
@@ -66,7 +67,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
   * [Does my startup data team need a data engineer?](https://blog.getdbt.com/does-my-startup-data-team-need-a-data-engineer-/)
 
 ### Marketing and data
-  * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). Reading some chapters can help you think like a marketer with data driven approach. I don't think you need to read the whole book, though. But it's a gem. Didn't find this kind of insights elsewhere.
+  * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). Reading some chapters can help you think like a marketer with data driven approach. It's a gem. Didn't find this kind of insights elsewhere.
 
 ### More rigor for the analyst
 These books helped me to think better when analysing data. 
