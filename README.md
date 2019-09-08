@@ -4,6 +4,22 @@ This repository is a curation of good blog posts and books for Analytics Enginee
 ## Contribute
 I really appreciate any contribution. Just make sure to describe the theme and why you found the resource useful. 
 
+# Table of Contents
+- [SQL](#sql)
+- [Python](#python)
+- [Infrastructure](#infrastructure)
+- [Analytics Skills](#analytics-skills)
+- [Data Warehousing](#data-warehousing)
+- [Data Pipelines](#data-pipelines)
+- [Starting analytics in a company](#starting-analytics-in-a-company)
+- [Testing data](#testing-data)
+- [Success Stories](#success-stories)
+- [Organisation](#organisation)
+- [Data Visualisation](#data-visualisation)
+- [Marketing and data](#marketing-and-data)
+- [More rigor for the analyst](#more-rigor-for-the-analyst)
+- [Other readings lists](#other-readings-lists)
+- [Top bloggers/blog](#top-bloggersblog)
 
 # Readings
 
@@ -49,7 +65,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
   * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a). You will learn the spirit behind good data pipelines and a well-designed data warehouse.
   * [Maintenable ETL: Tips for Making Your Pipelines Easier to Support and Extend](https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/). Best practices to write good ETL. 
 
-### Start Analytics in a company
+### Starting analytics in a company
   * [Building a data practice from scratch](https://www.locallyoptimistic.com/post/building-a-data-practice/). Very useful for your first weeks as a data person. 
   * [The Startup Founder's Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1). An excellent introduction to the stack necessary for analytics and its evolution following the growth of the start-up.  
 
