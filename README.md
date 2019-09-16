@@ -100,7 +100,7 @@ Nassim Taleb taught so much both professionally and personnaly. In Fooled By Ran
 ### Other readings lists
 
 I really love [Reading in Applied Data Science](https://github.com/hadley/stats337#readings). But it is more for data scientists.  
-   The Gitlab data team also made an [excellent list](https://gitlab.com/gitlab-data/analytics). (close to mine)
+   The GitLab data team also made an [excellent list](https://about.gitlab.com/handbook/business-ops/data-team/#data-learning-and-resources). (close to mine)
 
 # Top bloggers/blog
   * [Randy Au](https://towardsdatascience.com/@Randy_Au). You can read almost all his posts there are all very relevant for analytics engineers.
