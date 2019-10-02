@@ -87,13 +87,15 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
   * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). Reading some chapters can help you think like a marketer with data driven approach. It's a gem. Didn't find this kind of insights elsewhere.
 
 ### More rigor for the analyst
-These books helped me to think better when analysing data. 
+These books/articles helped me to think better when analysing data. 
 
+  * [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/). Excellent summary of the most common fallacies when analyzing data. Very clear and well-explained. 
   * [Thinking fast and slow](https://www.amazon.com/dp/0374533555/ref=cm_sw_em_r_mt_dp_U_wOryDb6WC3CVE). Learning about bias can be super useful. For instance, I didn't have the reflex to think of a base rate anytime I see a figure. 
   * [Fooled by randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?crid=2QEXPWM35W0BR&keywords=fooled+by+randomness&qid=1566644880&s=books&sprefix=foole%2Cstripbooks-intl-ship%2C207&sr=1-1).
 Nassim Taleb taught so much both professionally and personnaly. In Fooled By Randomness, you will learn about major pitfalls when dealing with data in **real life**. 
   * [Why you should care about the Nate Silver vs. Nassim Taleb Twitter war](https://towardsdatascience.com/why-you-should-care-about-the-nate-silver-vs-nassim-taleb-twitter-war-a581dce1f5fc). Great chess players learn from high elo games. Great data people learn from debate between data experts. 
   * [Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f). I have not read them all yet. But these suggestions seems judicious. 
+
 
 ### Data Visualisation 
    * [Fundamentals of Data Visualisation](https://serialmentor.com/dataviz/). Complete guide to visualisation. Free version online.
