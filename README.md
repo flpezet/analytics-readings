@@ -54,6 +54,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 ### Data Warehousing
 
   * [The beginner guide to data engineering series](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7). Start here if you don't know what is a star schema, Airflow and some basic practices when writing data pipelines.    
+  * [Best practices for data modeling](https://www.stitchdata.com/blog/best-practices-for-data-modeling/). A lot of practical tips on naming, grain, permissions and materialization. 
   * [The Data Warehouse Toolkit](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=sr_1_1?crid=FV5A2S72XIZO&keywords=data+warehouse+toolkit&qid=1566644628&s=gateway&sprefix=data+ware%2Caps%2C213&sr=8-1) by Ralph Kimball. A classic in Business Intelligence. Some chapters can be gold on modeling your data warehouse.   
   * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a). You will learn the spirit behind good data pipelines and a well-designed data warehouse.  
   * [The rise of the Data Engineer](https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603). Explains recent evolutions of the job and data practices.   
