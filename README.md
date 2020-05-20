@@ -18,6 +18,7 @@ I really appreciate any contribution. Just make sure to describe the theme and w
 - [Data Visualisation](#data-visualisation)
 - [Marketing and data](#marketing-and-data)
 - [More rigor for the analyst](#more-rigor-for-the-analyst)
+- [Github-Gitlab repo to learn from](#github-gitlab-repo-to-learn-from)
 - [Other readings lists](#other-readings-lists)
 - [Top bloggers/blog](#top-bloggersblog)
 
@@ -27,13 +28,16 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 
 
 ### SQL
+SQL has a lot of tips and tricks that take times to know. 
+  * [Mode Analytics SQL Guide](https://mode.com/sql-tutorial/introduction-to-sql/). Very complete, even intermediate users can learn from this series of tutorials.
   * [Learning SQL 201: Optimizing Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1) By Randy Au. I finally found a complete post on advanced SQL.
 
 ### Python 
-  * [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662). Very comprehensive book about using python for data stuff. 
+Python is a very broad subject. Maybe you can follow this list for more [Python focused readings](https://github.com/charlax/python-education).
+  * [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662). :book: Very comprehensive book about using python for data stuff. 
   * [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) I use it everyday!
-  * [TIL Python by Vicki Boykis](https://github.com/veekaybee/til/blob/master/python/pandas_cheat_sheet.md). Some tricks to deal with some frequent tasks when manipulating data.
   * [Modern pandas](https://tomaugspurger.github.io/modern-1-intro.html). A series of blog posts on intermediate/advanced pandas written by one of the maintainers. 
+
 
 ### Infrastructure
 
@@ -55,7 +59,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 
   * [The beginner guide to data engineering series](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7). Start here if you don't know what is a star schema, Airflow and some basic practices when writing data pipelines.    
   * [Best practices for data modeling](https://www.stitchdata.com/blog/best-practices-for-data-modeling/). A lot of practical tips on naming, grain, permissions and materialization. 
-  * [The Data Warehouse Toolkit](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=sr_1_1?crid=FV5A2S72XIZO&keywords=data+warehouse+toolkit&qid=1566644628&s=gateway&sprefix=data+ware%2Caps%2C213&sr=8-1) by Ralph Kimball. A classic in Business Intelligence. Some chapters can be gold on modeling your data warehouse.   
+  * [The Data Warehouse Toolkit](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=sr_1_1?crid=FV5A2S72XIZO&keywords=data+warehouse+toolkit&qid=1566644628&s=gateway&sprefix=data+ware%2Caps%2C213&sr=8-1) by Ralph Kimball. :book: A classic in Business Intelligence. Some chapters can be gold on modeling your data warehouse.   
   * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a). You will learn the spirit behind good data pipelines and a well-designed data warehouse.  
   * [The rise of the Data Engineer](https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603). Explains recent evolutions of the job and data practices.   
   * [Five principles that will keep your data warehouse organized](https://blog.getdbt.com/five-principles-that-will-keep-your-data-warehouse-organized/)
@@ -65,6 +69,7 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
 
   * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a). You will learn the spirit behind good data pipelines and a well-designed data warehouse.
   * [Maintenable ETL: Tips for Making Your Pipelines Easier to Support and Extend](https://multithreaded.stitchfix.com/blog/2019/05/21/maintainable-etls/). Best practices to write good ETL. 
+  * [The Data Warehouse ETL Toolkit](https://www.amazon.com/gp/product/0764567578?ie=UTF8&tag=decworks-20&lin%20kCode=xm2&camp=1789&creativeASIN=0764567578) :book: Once again, very dense book but you can find good ideas. 
 
 ### Starting analytics in a company
   * [Building a data practice from scratch](https://www.locallyoptimistic.com/post/building-a-data-practice/). Very useful for your first weeks as a data person. 
@@ -84,7 +89,8 @@ Definition of the Analytics Engineer: [The Analytics Engineer](https://www.local
   * [Does my startup data team need a data engineer?](https://blog.getdbt.com/does-my-startup-data-team-need-a-data-engineer-/)
 
 ### Marketing and data
-  * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). Reading some chapters can help you think like a marketer with data driven approach. It's a gem. Didn't find this kind of insights elsewhere.
+  * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). :book: Reading some chapters can help you think like a marketer with data driven approach. It's a gem. Didn't find this kind of insights elsewhere.
+  * [Introduction to Algorithmic Marketing](https://algorithmic-marketing.online/). :book: I found good ideas to make more data driven initiatives for marketing. Very dense though, you can pass the equations.
 
 ### More rigor for the analyst
 These books/articles helped me to think better when analysing data. 
@@ -92,7 +98,7 @@ These books/articles helped me to think better when analysing data.
   * [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/). Excellent summary of the most common fallacies when analyzing data. Very clear and well-explained. 
   * [Thinking fast and slow](https://www.amazon.com/dp/0374533555/ref=cm_sw_em_r_mt_dp_U_wOryDb6WC3CVE). Learning about bias can be super useful. For instance, I didn't have the reflex to think of a base rate anytime I see a figure. 
   * [Fooled by randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=sr_1_1?crid=2QEXPWM35W0BR&keywords=fooled+by+randomness&qid=1566644880&s=books&sprefix=foole%2Cstripbooks-intl-ship%2C207&sr=1-1).
-Nassim Taleb taught so much both professionally and personnaly. In Fooled By Randomness, you will learn about major pitfalls when dealing with data in **real life**. 
+:book: Nassim Taleb taught so much both professionally and personnaly. In Fooled By Randomness, you will learn about major pitfalls when dealing with data in **real life**. 
   * [Why you should care about the Nate Silver vs. Nassim Taleb Twitter war](https://towardsdatascience.com/why-you-should-care-about-the-nate-silver-vs-nassim-taleb-twitter-war-a581dce1f5fc). Great chess players learn from high elo games. Great data people learn from debate between data experts. 
   * [Five books every data scientist should read that are not about data science](https://towardsdatascience.com/five-books-every-data-scientist-should-read-that-are-not-about-data-science-f7335fb1f84f). I have not read them all yet. But these suggestions seems judicious. 
 
@@ -100,19 +106,25 @@ Nassim Taleb taught so much both professionally and personnaly. In Fooled By Ran
 ### Data Visualisation 
    * [Fundamentals of Data Visualisation](https://serialmentor.com/dataviz/). Complete guide to visualisation. Free version online.
 
+### Github-Gitlab repo to learn from
+I found that reading code help to know the best practices whether it is Python or SQL.
+In Python reading some taps from [Singer](https://github.com/singer-io) can teach you a lot. 
+In dbt/SQL I like to browse [a repo open-sourced by Gitlab](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt)
+
 ### Other readings lists
 
 I really love [Reading in Applied Data Science](https://github.com/hadley/stats337#readings). But it is more for data scientists.  
    The GitLab data team also made an [excellent list](https://about.gitlab.com/handbook/business-ops/data-team/#data-learning-and-resources). (close to mine)
+Knowing more about programming is an excellent asset. For instance [Professional Programming list](https://github.com/charlax/professional-programming) is quite complete.
 
 # Top bloggers/blog
   * [Randy Au](https://towardsdatascience.com/@Randy_Au). You can read almost all his posts there are all very relevant for analytics engineers.
   * [Locally Optimistic](https://www.locallyoptimistic.com/). A blog dedicated to data in organizations. 
   * [Tristan Handy](https://medium.com/@jthandy). I also love his newsletter: [Data Science Roundup](http://roundup.fishtownanalytics.com/).
-
+  * [Dbt blog](https://blog.getdbt.com/). 90% of the articles are almost must-read.
 
 # Where is the community?
-  * Dbt blog
   * Twitter
-  * Locally Optimistic
+  * [Locally Optimistic](https://www.locallyoptimistic.com/)
+  * [Reddit data engineering](https://www.reddit.com/r/dataengineering/). ETL, Business Intelligence, Data Science channels are also good.
 
