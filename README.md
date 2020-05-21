@@ -1,4 +1,4 @@
-# Resources for Analytics Engineers (Work in Progress)
+# Resources for Analytics Engineers
 This repository is a curation of good blog posts and books for Analytics Engineers. It can also be very useful for Data Analysts and Data Scientists. 
 
 ## Contribute
@@ -17,7 +17,7 @@ I really appreciate any contribution. Just make sure to describe the theme and w
 - [Organisation](#organisation)
 - [Data Visualisation](#data-visualisation)
 - [Marketing and data](#marketing-and-data)
-- [More rigor for the analyst](#more-rigor-for-the-analyst)
+- [Thinking with data](#thinking-with-data)
 - [Github-Gitlab repo to learn from](#github-gitlab-repo-to-learn-from)
 - [Other readings lists](#other-readings-lists)
 - [Top bloggers/blog](#top-bloggersblog)
@@ -38,13 +38,13 @@ Python is a very broad subject. Maybe you can follow this list for more [Python 
   * [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) I use it everyday!
   * [Modern pandas](https://tomaugspurger.github.io/modern-1-intro.html). A series of blog posts on intermediate/advanced pandas written by one of the maintainers. 
 
-
 ### Infrastructure
 
   * [The Startup Founder's Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1). An excellent introduction to the stack necessary for analytics and its evolution following the growth of the start-up.  
   * [The missing layer of Analytics Stack](https://blog.getdbt.com/the-missing-layers-of-the-analytics-stack). 
   * [Choosing a Data Warehouse](https://discourse.getdbt.com/t/choosing-a-data-warehouse/62/4). A lot of excellent answers on what to choose for your data warehouse. 
   * [Data science for start-ups](https://bgweber.github.io/intro.html). You can find some useful information in this free book.
+  * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) :book: Fascinating read to learn more about databases, protocols etc...
 
   **Comparison of tools by Stephen Levin**
   * [Looker vs Tableau vs Mode. Data Visualisation tools compared](https://www.stephenlevin.co/advanced-analytics-part-3-data-visualization/). . 
@@ -92,7 +92,7 @@ Python is a very broad subject. Maybe you can follow this list for more [Python 
   * [Data Driven Marketing](https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544/ref=sr_1_1?crid=38ZUOKHZZEY6D&keywords=data+driven+marketing&qid=1566644698&s=gateway&sprefix=data+driven%2Caps%2C209&sr=8-1). :book: Reading some chapters can help you think like a marketer with data driven approach. It's a gem. Didn't find this kind of insights elsewhere.
   * [Introduction to Algorithmic Marketing](https://algorithmic-marketing.online/). :book: I found good ideas to make more data driven initiatives for marketing. Very dense though, you can pass the equations.
 
-### More rigor for the analyst
+### Thinking with data
 These books/articles helped me to think better when analysing data. 
 
   * [Common Data Mistakes to Avoid](https://www.geckoboard.com/learn/data-literacy/statistical-fallacies/). Excellent summary of the most common fallacies when analyzing data. Very clear and well-explained. 
@@ -108,14 +108,21 @@ These books/articles helped me to think better when analysing data.
 
 ### Github-Gitlab repo to learn from
 I found that reading code help to know the best practices whether it is Python or SQL.
+
 In Python reading some taps from [Singer](https://github.com/singer-io) can teach you a lot. 
+
 In dbt/SQL I like to browse [a repo open-sourced by Gitlab](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt)
 
 ### Other readings lists
 
-I really love [Reading in Applied Data Science](https://github.com/hadley/stats337#readings). But it is more for data scientists.  
    The GitLab data team also made an [excellent list](https://about.gitlab.com/handbook/business-ops/data-team/#data-learning-and-resources). (close to mine)
-Knowing more about programming is an excellent asset. For instance [Professional Programming list](https://github.com/charlax/professional-programming) is quite complete.
+
+[Analytics Dispatch](https://mode.com/analytics-dispatch) by Mode Analytics. Very comprehensive.
+
+I really love [Reading in Applied Data Science](https://github.com/hadley/stats337#readings) for a more data science focused view.  
+
+Knowing more about programming is an huge asset. For instance [Professional Programming list](https://github.com/charlax/professional-programming) is quite complete.
+
 
 # Top bloggers/blog
   * [Randy Au](https://towardsdatascience.com/@Randy_Au). You can read almost all his posts there are all very relevant for analytics engineers.
