@@ -107,7 +107,7 @@ These books/articles helped me to think better when analysing data.
    * [Fundamentals of Data Visualisation](https://serialmentor.com/dataviz/). Complete guide to visualisation. Free version online.
 
 ### Github-Gitlab repo to learn from
-I found that reading code help to know the best practices whether it is Python or SQL.
+I found that reading code helps to know the best practices whether it is Python or SQL.
 
 In Python reading some taps from [Singer](https://github.com/singer-io) can teach you a lot. 
 
