@@ -19,6 +19,7 @@ I really appreciate any contribution. Just make sure to describe the theme and w
 - [Marketing and data](#marketing-and-data)
 - [Thinking with data](#thinking-with-data)
 - [Github-Gitlab repo to learn from](#github-gitlab-repo-to-learn-from)
+- [Against ELT](#against-elt)
 - [Other readings lists](#other-readings-lists)
 - [Top bloggers/blog](#top-bloggersblog)
 
@@ -45,6 +46,7 @@ Python is a very broad subject. Maybe you can follow this list for more [Python 
   * [Choosing a Data Warehouse](https://discourse.getdbt.com/t/choosing-a-data-warehouse/62/4). A lot of excellent answers on what to choose for your data warehouse. 
   * [Data science for start-ups](https://bgweber.github.io/intro.html). You can find some useful information in this free book.
   * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) :book: Fascinating read to learn more about databases, protocols etc...
+  * [The Modern Data Stack: Past, Present, and Future](http://blog.getdbt.com/future-of-the-modern-data-stack/) A must-read on the last innovations in the data stack.
 
   **Comparison of tools by Stephen Levin**
   * [Looker vs Tableau vs Mode. Data Visualisation tools compared](https://www.stephenlevin.co/advanced-analytics-part-3-data-visualization/). . 
@@ -73,7 +75,7 @@ Python is a very broad subject. Maybe you can follow this list for more [Python 
 
 ### Starting analytics in a company
   * [Building a data practice from scratch](https://www.locallyoptimistic.com/post/building-a-data-practice/). Very useful for your first weeks as a data person. 
-  * [The Startup Founder's Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1). An excellent introduction to the stack necessary for analytics and its evolution following the growth of the start-up.  
+  * [The Startup Founder's Guide to Analytics](https://thinkgrowth.org/the-startup-founders-guide-to-analytics-1d2176f20ac1). An excellent introduction to the stack necessary for analytics and its evolution following the growth of the start-up. 
 
 
 ### Testing data
@@ -113,6 +115,12 @@ In Python reading some taps from [Singer](https://github.com/singer-io) can teac
 
 In dbt/SQL I like to browse [a repo open-sourced by Gitlab](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt)
 
+
+### Against ELT
+The concept of analytics engineering is tightly coupled with the ELT view of data warehousing. It is interesting to learn from the people that would prefer the ETL. 
+[Reddit comments on Snowflake super-expensive cost](https://www.reddit.com/r/dataengineering/comments/is39id/snowflake_cost_analysis/)
+
+
 ### Other readings lists
 
    The GitLab data team also made an [excellent list](https://about.gitlab.com/handbook/business-ops/data-team/#data-learning-and-resources). (close to mine)
@@ -129,6 +137,7 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
   * [Locally Optimistic](https://www.locallyoptimistic.com/). A blog dedicated to data in organizations. 
   * [Tristan Handy](https://medium.com/@jthandy). I also love his newsletter: [Data Science Roundup](http://roundup.fishtownanalytics.com/).
   * [Dbt blog](https://blog.getdbt.com/). 90% of the articles are almost must-read.
+  * [Ken Farming](https://www.reddit.com/user/kenfar/?sort=top&t=year) It is healthy to read from those who still prefer the ETL stack.
 
 # Where is the community?
   * Twitter
