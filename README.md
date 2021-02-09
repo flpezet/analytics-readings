@@ -138,6 +138,7 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
   * [Tristan Handy](https://medium.com/@jthandy). I also love his newsletter: [Data Science Roundup](http://roundup.fishtownanalytics.com/).
   * [Dbt blog](https://blog.getdbt.com/). 90% of the articles are almost must-read.
   * [Ken Farming](https://www.reddit.com/user/kenfar/?sort=top&t=year) It is healthy to read from those who still prefer the ETL stack.
+  * [Holistics.io](https://www.holistics.io/blog/) About the contemporary practice of business intelligence.
 
 # Where is the community?
   * Twitter
