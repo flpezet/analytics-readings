@@ -65,6 +65,7 @@ Python is a very broad subject. Maybe you can follow this list for more [Python 
   * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a). You will learn the spirit behind good data pipelines and a well-designed data warehouse.  
   * [The rise of the Data Engineer](https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603). Explains recent evolutions of the job and data practices.   
   * [Five principles that will keep your data warehouse organized](https://blog.getdbt.com/five-principles-that-will-keep-your-data-warehouse-organized/)
+  * [Using Postgres as a data warehouse](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/) I wish I read this post earlier. So much wisdom on Postgres.
   * [For Data Warehouse Performance, One Big Table or Star Schema?](https://fivetran.com/blog/obt-star-schema). Discussion on an alternative to star schema. 
 
 ### Data Pipelines
@@ -137,7 +138,7 @@ Knowing more about programming is an huge asset. For instance [Professional Prog
   * [Locally Optimistic](https://www.locallyoptimistic.com/). A blog dedicated to data in organizations. 
   * [Tristan Handy](https://medium.com/@jthandy). I also love his newsletter: [Data Science Roundup](http://roundup.fishtownanalytics.com/).
   * [Dbt blog](https://blog.getdbt.com/). 90% of the articles are almost must-read.
-  * [Ken Farming](https://www.reddit.com/user/kenfar/?sort=top&t=year) It is healthy to read from those who still prefer the ETL stack.
+  * [Ken Farmer](https://www.reddit.com/user/kenfar/?sort=top&t=year) It is healthy to read from those who still prefer the ETL stack.
   * [Holistics.io](https://www.holistics.io/blog/) About the contemporary practice of business intelligence.
 
 # Where is the community?
